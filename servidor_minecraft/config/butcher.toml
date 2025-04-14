@@ -31,7 +31,7 @@
 	#Enable/Disable overlay hints
 	Hints = true
 	#Enable/Disable organ drops
-	Organs = true
+	Organs = false
 
 ["Boss Carcasses"]
 	#Enable/Disable End Dragon carcass
@@ -39,7 +39,7 @@
 	#Enable/Disable Elder Guardian carcass
 	"Elder Guardian" = true
 	#Enable/Disable Wither carcass
-	Wither = true
+	Wither = false
 
 ["Mod Compatiblities"]
 	#Enable/Disable farmers delight foods as drops
@@ -70,7 +70,7 @@
 	Pig = true
 	Rabbit = true
 	Sheep = true
-	Squid = true
+	Squid = false
 	Turtle = true
 	Villager = true
 	Fox = true
@@ -90,7 +90,7 @@
 	Pillager = true
 	Spider = false
 	"Cave Spider" = false
-	Enderman = true
+	Enderman = false
 	Husk = true
 	Drowned = false
 	"Wither Skeleton" = false
