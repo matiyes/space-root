@@ -1,0 +1,106 @@
+
+[General]
+	#Only butchery knives cause corpses/carcasses to drop. Disable to allow any tool/weapon to cause them to drop.
+	"Specific Tools Only" = true
+	#Enable/Disable End Dragon armor
+	"Dragon Armor" = true
+	#Enable/Disable the butchers house structure
+	Structures = true
+	#Enalbe/Disable guide book on first join
+	"Guide Book" = true
+	#Enable this to use vanilla foods instead of butchery's foods
+	"Vanilla Drops" = false
+	#Enable/Disable blood spreading
+	"Blood Spread" = true
+	#Enable/Disable carcass weight effects
+	"Carcass Weight" = false
+	#Enable/Disable blocks weight effects
+	"Block Weight" = false
+	#Enable/Disable pillager disguise blending affect
+	"Pillager Disguise" = true
+	#Collect salt water from ocean biomes using a bucket
+	"Salt Water" = true
+	#Instantly drain carcasses/corpses
+	"Instant Drain" = false
+	#Enable/Disable sulfur ore generation
+	"Sulfur Ore" = true
+	#Enable/Disable salt generation
+	Salt = true
+	#Enable to use a vanilla bucket to collect salt water. Disable to use butchery's own bucket.
+	"Salt Water: Vanilla Bucket" = true
+	#Enable/Disable overlay hints
+	Hints = true
+	#Enable/Disable organ drops
+	Organs = true
+
+["Boss Carcasses"]
+	#Enable/Disable End Dragon carcass
+	"End Dragon" = true
+	#Enable/Disable Elder Guardian carcass
+	"Elder Guardian" = true
+	#Enable/Disable Wither carcass
+	Wither = true
+
+["Mod Compatiblities"]
+	#Enable/Disable farmers delight foods as drops
+	"Farmer's Delight" = true
+	#Enable to make TFC mobs drop carcasses
+	"Terra Firma Craft Carcasses" = false
+	#Enable to use TFC drops instead of Butchery drops
+	"Terra Firma Craft drops" = false
+	#Enable to obtain life essence buckets from blood drain when right clicked with empty bucket
+	"Blood Magic" = false
+	#Enable vampirism drops from corpses
+	Vampirism = false
+	#Enable vampirism delight drops from corpses
+	"Vamp Delight" = false
+	#Enable werewolves drops from corpses
+	Werewolves = false
+	#Enable/Disable Hexerei drops
+	Hexerei = false
+
+["Carcasses/Corpses"]
+	Player = false
+	Bat = false
+	Chicken = true
+	Cow = true
+	Frog = true
+	Goat = true
+	Hoglin = true
+	Pig = true
+	Rabbit = true
+	Sheep = true
+	Squid = true
+	Turtle = true
+	Villager = true
+	Fox = true
+	"Puffer Fish" = false
+	Llama = true
+	Panda = true
+	"Polar Bear" = true
+	Salmon = false
+	Dolphin = true
+	Cod = true
+	Camel = true
+	"Glow Squid" = false
+	Skeleton = false
+	Zombie = true
+	Witch = true
+	Creeper = false
+	Pillager = true
+	Spider = false
+	"Cave Spider" = false
+	Enderman = true
+	Husk = true
+	Drowned = false
+	"Wither Skeleton" = false
+	Piglin = true
+	"Zombified Piglin" = true
+	Slime = false
+
+[Seasonal]
+	#Enable/Disable the Halloween update
+	Halloween = true
+	#Enable/Disable the Christmas update
+	Christmas = false
+
