@@ -71,7 +71,7 @@
 	Rabbit = true
 	Sheep = true
 	Squid = false
-	Turtle = true
+	Turtle = false
 	Villager = true
 	Fox = true
 	"Puffer Fish" = false
@@ -79,13 +79,13 @@
 	Panda = true
 	"Polar Bear" = true
 	Salmon = false
-	Dolphin = true
+	Dolphin = false
 	Cod = true
 	Camel = true
 	"Glow Squid" = false
 	Skeleton = false
-	Zombie = true
-	Witch = true
+	Zombie = false
+	Witch = false
 	Creeper = false
 	Pillager = true
 	Spider = false
@@ -100,7 +100,7 @@
 
 [Seasonal]
 	#Enable/Disable the Halloween update
-	Halloween = true
+	Halloween = false
 	#Enable/Disable the Christmas update
 	Christmas = false
 
